@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>无尽の夏</title>
+    <link>https://midsumm3r.eu.org/</link>
+    <description>Recent content on 无尽の夏</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 10 Jan 2023 23:07:31 +0800</lastBuildDate><atom:link href="https://midsumm3r.eu.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>嗨，别来无恙呀！</title>
+      <link>https://midsumm3r.eu.org/posts/first_blog/</link>
+      <pubDate>Tue, 10 Jan 2023 23:07:31 +0800</pubDate>
+      
+      <guid>https://midsumm3r.eu.org/posts/first_blog/</guid>
+      <description>记正式的一个博客搭建完成。 整个博客重新选择主题，不喜欢之前的花里胡哨的。 但是这个主题可太好看了吧，这种简约的设计正式我喜欢的。 这个主题全部重新设计了颜色，利用hugo在线预览，在无意中发现按F12，调</description>
+    </item>
+    
+    <item>
+      <title>关于</title>
+      <link>https://midsumm3r.eu.org/about/</link>
+      <pubDate>Tue, 10 Jan 2023 20:24:28 +0800</pubDate>
+      
+      <guid>https://midsumm3r.eu.org/about/</guid>
+      <description>喜欢摄影，以及折腾一切我喜欢的事物。 人生很长，还有很多值得我们去学习的东西。</description>
+    </item>
+    
+  </channel>
+</rss>
