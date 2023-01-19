@@ -2,16 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://midsumm3r.eu.org/posts/kms%E6%BF%80%E6%B4%BB/</loc>
+    <lastmod>2023-01-19T11:07:31+08:00</lastmod>
+  </url><url>
+    <loc>https://midsumm3r.eu.org/tags/kms%E6%BF%80%E6%B4%BB/</loc>
+    <lastmod>2023-01-19T11:07:31+08:00</lastmod>
+  </url><url>
     <loc>https://midsumm3r.eu.org/posts/</loc>
-    <lastmod>2023-01-10T23:07:31+08:00</lastmod>
+    <lastmod>2023-01-19T11:07:31+08:00</lastmod>
   </url><url>
     <loc>https://midsumm3r.eu.org/tags/</loc>
-    <lastmod>2023-01-10T23:07:31+08:00</lastmod>
+    <lastmod>2023-01-19T11:07:31+08:00</lastmod>
   </url><url>
-    <loc>https://midsumm3r.eu.org/posts/first_blog/</loc>
-    <lastmod>2023-01-10T23:07:31+08:00</lastmod>
+    <loc>https://midsumm3r.eu.org/tags/%E6%8A%98%E8%85%BE/</loc>
+    <lastmod>2023-01-19T11:07:31+08:00</lastmod>
   </url><url>
     <loc>https://midsumm3r.eu.org/</loc>
+    <lastmod>2023-01-19T11:07:31+08:00</lastmod>
+  </url><url>
+    <loc>https://midsumm3r.eu.org/posts/first_blog/</loc>
     <lastmod>2023-01-10T23:07:31+08:00</lastmod>
   </url><url>
     <loc>https://midsumm3r.eu.org/tags/%E6%97%A5%E5%B8%B8/</loc>

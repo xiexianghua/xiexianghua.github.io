@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>折腾 on 无尽之夏</title>
+    <link>https://midsumm3r.eu.org/tags/%E6%8A%98%E8%85%BE/</link>
+    <description>Recent content in 折腾 on 无尽之夏</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 19 Jan 2023 11:07:31 +0800</lastBuildDate><atom:link href="https://midsumm3r.eu.org/tags/%E6%8A%98%E8%85%BE/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>KMS永久激活windows和office</title>
+      <link>https://midsumm3r.eu.org/posts/kms%E6%BF%80%E6%B4%BB/</link>
+      <pubDate>Thu, 19 Jan 2023 11:07:31 +0800</pubDate>
+      
+      <guid>https://midsumm3r.eu.org/posts/kms%E6%BF%80%E6%B4%BB/</guid>
+      <description>每次重装系统都用到了这个给命令，再也不用安装激活软件被曝病毒了，也不用180天后再次激活，一劳永逸！ 一、Windows（支持win7/8/10/11）的激活方法 这个服务器最好还是选择在Openwrt里</description>
+    </item>
+    
+  </channel>
+</rss>
