@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tags on Midsumm3r</title>
+    <link>https://midsumm3r.eu.org/tags/</link>
+    <description>Recent content in tags on Midsumm3r</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 16 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://midsumm3r.eu.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>archive</title>
+      <link>https://midsumm3r.eu.org/tags/archive/</link>
+      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://midsumm3r.eu.org/tags/archive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>flower</title>
+      <link>https://midsumm3r.eu.org/tags/flower/</link>
+      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://midsumm3r.eu.org/tags/flower/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nature</title>
+      <link>https://midsumm3r.eu.org/tags/nature/</link>
+      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://midsumm3r.eu.org/tags/nature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>work</title>
+      <link>https://midsumm3r.eu.org/tags/work/</link>
+      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://midsumm3r.eu.org/tags/work/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>people</title>
+      <link>https://midsumm3r.eu.org/tags/people/</link>
+      <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://midsumm3r.eu.org/tags/people/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
