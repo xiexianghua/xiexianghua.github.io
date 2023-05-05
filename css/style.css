@@ -323,7 +323,7 @@ section .column img {
 
 .footer {
     background-color: var(--dark);
-    color: rgb(245, 245, 245);
+    color: #789262;
 }
 
 .source-love {
